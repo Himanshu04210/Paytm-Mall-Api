@@ -2,87 +2,101 @@
     "GiftCard": [
         {
             "id":1,
-            "Image": "https://paytmmall.com/ankita-visiting-card-holder-for-240-cards-set-of-2-STAANKITA-VISITANAN745679C678189-pdp?sid=210b5573-7a20-41be-aef7-18e716d2a33c&src=consumer_search&svc=-1&cid=80321&tracker=recentSearch%7C%7Ccentral%20gift%20cards%7Cgrid%7CSearch_experimentName%3Ddemographics_location%23NA_gender%23NA%7C%7C1%7Cdemographics_location%23NA_gender%23NA&get_review_id=44685163",
+            "Image": "https://assetscdn1.paytm.com/images/catalog/product/S/ST/STAANKITA-VISITANAN745679C678189/1563561288294_0..JPG?imwidth=282&impolicy=hq",
             "Description": "Magpie visiting card holder for 240 cards(set of 2",
-            "Price": "₹320"
+            "price": "₹320",
+            "catagory": "fancy&toys"
         },
         {
             "id":2,
             "Image": "https://assetscdn1.paytm.com/images/catalog/product/K/KI/KIDSKYLOFTS-1STSKYL23695113B0A0B/1563285070506_0..jpg?imwidth=282&impolicy=hq",
             "Description": "Skyloft 1st Birthday Decoration Monthly Milestone Birthday Photo",
-            "Price": "₹249"
+            "price": "₹249",
+            "catagory": "fancy&toys"
         },
         {
             "id":3,
             "Image": "https://assetscdn1.paytm.com/images/catalog/product/K/KI/KIDAV-INT-40PC-ADIT113709740AC3100/1564565859856_0..jpeg?imwidth=282&impolicy=hq",
             "Description": "AV INT pretend play elctronic cash register toy",
-            "Price": "₹1,249"
+            "price": "₹1,249",
+            "catagory": "fancy&toys"
         },
         {
             "id":4,
             "Image": "https://assetscdn1.paytm.com/images/catalog/product/K/KI/KIDDESI-KARIGARDESI1418254DFBABE5/1619443907146_2.jpg?imwidth=282&impolicy=hq",
             "Description": "Desi karigar Handcrafted Wooden Labryinth board game round",
-            "Price": "₹359"
+            "price": "₹359",
+            "catagory": "fancy&toys"
         },
         {
             "id":5,
             "Image": "https://assetscdn1.paytm.com/images/catalog/product/K/KI/KIDBEY-BEE-EDUCSTAR9949279B65B7DF/1564572680669_0..jpg?imwidth=282&impolicy=hq",
             "Description": "Bey Bee:educational toys for babay learning fast(Number learning kit",
-            "Price": "₹375"
+            "price": "₹375",
+            "catagory": "fancy&toys"
         },
         {
             "id":6,
             "Image": "https://assetscdn1.paytm.com/images/catalog/product/S/ST/STAKITTU-3D-LOOR-K-2781754FBB7371/1563559301286_0..jpg?imwidth=282&impolicy=hq",
             "Description": "Magpie Visiting Card Holder For 240 cards",
-            "Price": "₹399"
+            "price": "₹399",
+            "catagory": "wallets"
         },
         {
             "id":7,
             "Image": "https://assetscdn1.paytm.com/images/catalog/product/S/ST/STAANKITA-VISITANAN74567CBEFCD18/1563558346724_0..JPG?imwidth=282&impolicy=hq",
             "Description": "Magpie visiting card holder of asserted colour",
-            "Price": "₹220"
+            "price": "₹220",
+            "catagory": "wallets"
         },
         {
             "id":8,
             "Image": "https://assetscdn1.paytm.com/images/catalog/product/S/ST/STAANKITA-VISITANAN745677A6F5A6D/1563558405041_0..JPG?imwidth=282&impolicy=hq",
             "Description": "Kittu 3D look unisex wallet cum 6 passport holder",
-            "Price": "₹260"
+            "price": "₹260",
+            "catagory": "wallets"
         },
         {
             "id":9,
             "Image": "https://assetscdn1.paytm.com/images/catalog/product/S/ST/STAANKITA-VISITANAN7456731596FF7/1563561190296_0..JPG?imwidth=282&impolicy=hq",
             "Description": " Magpie Visiting card holder for 480 cards",
-            "Price": "₹318"
+            "price": "₹318",
+            "catagory": "wallets"
         },
         {
             "id":10,
             "Image": "https://assetscdn1.paytm.com/images/catalog/product/S/ST/STAMAGPIE-CARD-ANAN7456725F82A92/1563559016517_0..jpg?imwidth=282&impolicy=hq",
             "Description": "Magpie Visiting Card Holder For 240 Cards (Set Of 3)",
-            "Price": "₹190"
+            "price": "₹190",
+            "catagory": "wallets"
         },
         {
             "id":11,
             "Image": "https://assetscdn1.paytm.com/images/catalog/product/S/ST/STAMAGPIE-BUSINANAN74567D8200DBC/1563558347422_0..jpg?imwidth=282&impolicy=hq",
             "Description": "Magpie Card Holder Set Of 5",
-            "Price": "₹240"
+            "price": "₹240",
+            "catagory": "wallets"
         },
         {
             "id":12,
             "Image": "https://assetscdn1.paytm.com/images/catalog/product/S/ST/STAMAGPIE-BUSINANAN745678044643A/1563561268130_0..jpg?imwidth=282&impolicy=hq",
             "Description": "Magpie Card Holder Set Of 3",
-            "Price": "₹215"
+            "price": "₹215",
+            "catagory": "wallets"
         },
         {
             "id":13,
             "Image": "https://assetscdn1.paytm.com/images/catalog/product/S/ST/STAMAGPIE-CARD-ANAN745678688234C/1563559070131_0..jpg?imwidth=282&impolicy=hq",
             "Description": "Magpie Card Holder Set Of 4",
-            "Price": "₹220"
+            "price": "₹220",
+            "catagory": "wallets"
         },
         {
             "id":14,
             "Image": "https://assetscdn1.paytm.com/images/catalog/product/S/ST/STAMAGPIE-CARD-ANAN745672146121/1563559013009_0..jpg?imwidth=282&impolicy=hq",
             "Description": "Magpie Business Card (set of 2)",
-            "Price": "₹200"
+            "price": "₹200",
+            "catagory": "wallets"
         }
     ],
     "Electonics": [
